@@ -1,3 +1,3 @@
 # Bot
 
-Simple test app for using Microsofot Bot Network
+Simple test app for using Microsoft Bot Network
