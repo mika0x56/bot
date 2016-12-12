@@ -1,4 +1,4 @@
-var communication = require('./communication');
-var bot = require('./bot');
+var communication = require('./lib/communication');
+var bot = require('./lib/bot');
 
 communication.onMessage(bot.onMessage);
